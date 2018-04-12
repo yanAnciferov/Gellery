@@ -1,0 +1,17 @@
+c:\users\asus\source\repos\GaleryApp\GaleryApp\bin\Debug\GaleryApp.exe.config
+c:\users\asus\source\repos\GaleryApp\GaleryApp\bin\Debug\GaleryApp.exe
+c:\users\asus\source\repos\GaleryApp\GaleryApp\bin\Debug\GaleryApp.pdb
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\MainWindow.g.cs
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\App.g.cs
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp_MarkupCompile.cache
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp_MarkupCompile.lref
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\MainWindow.baml
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.g.resources
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.Properties.Resources.resources
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.exe
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\GaleryApp.pdb
+c:\users\asus\source\repos\GaleryApp\GaleryApp\obj\Debug\Resources\ListBoxGallery.baml
+C:\Users\Asus\source\repos\GaleryApp\GaleryApp\obj\Debug\Resources\ListBoxGallery.g.cs
